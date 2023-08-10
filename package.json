@@ -4,7 +4,7 @@
     "scripts": {
         "dev": "vite",
         "build": "vite build",
-        "clone_rep": "ssh ct79376@vh308.timeweb.ru \"git clone https://github.com/asmi046/smu_2_laravel wordpress_2e50q/public_html\"",
+        "clone_rep": "ssh ct79376@vh308.timeweb.ru \"git clone https://github.com/asmi046/lotos_laravel wordpress_2e50q/public_html\"",
         "composer_remove": "ssh ct79376@vh308.timeweb.ru \"cd wordpress_2e50q/public_html && /opt/php81/bin/php composer.phar dumpauto\"",
         "composer_install": "ssh ct79376@vh308.timeweb.ru \"cd wordpress_2e50q/public_html && /opt/php81/bin/php composer.phar install\"",
         "composer_update": "ssh ct79376@vh308.timeweb.ru \"cd wordpress_2e50q/public_html && /opt/php81/bin/php composer.phar update\"",

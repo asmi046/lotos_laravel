@@ -4,7 +4,7 @@
 		<div class="header__row d-flex">
 
 			<a href="{{route('home')}}" class="logo-icon header__logo">
-                <img src="{{asset('img/logo-smu2.svg')}}" alt="">
+                <img src="{{asset('img/logo.svg')}}" alt="">
 			</a>
 
 			<ul class="main-menu header__main-menu d-flex">

@@ -4,7 +4,7 @@
 
         <div class="main-banner__descp">
             <span class="main-banner__main-title">{{config('contacts.company_name')}}</span>
-            <h1 class="main-banner__title">Продажа квартир в Орле</h1>
+            <h1 class="main-banner__title">Продажа квартир в Курске</h1>
             <p class="main-banner__subtitle">
                 Строительство монолитно-кирпичного жилого дома с поквартирным отоплением по адресу {{ config('contacts.home_adress') }}
             </p>
